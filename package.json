@@ -1,0 +1,9 @@
+{
+  "name": "ximitech-lab-clone",
+  "version": "1.0.0",
+  "description": "Cloned local version of https://lab1.ximitech.vn/",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve -l 8000 ."
+  }
+}
